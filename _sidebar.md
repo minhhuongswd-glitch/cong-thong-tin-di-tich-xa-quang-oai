@@ -5,6 +5,7 @@
 * **Thông tin di tích**
 * [Tóm tắt thông tin di tích] (thong-tin-di-tich.md)
 * .[Hình ảnh về di tích] (hinh-anh-di-tich.md)
+* .[Lễ hội tại di tích] (le-hoi-tai-di-tich.md)
 * **Liên Hệ**
   * [Thông tin hỗ trợ](lien-he.md)
   * .[Hỗ trợ tra cứu] (ho-tro.md)
