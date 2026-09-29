@@ -9,3 +9,4 @@ Tài liệu chuẩn hóa các bước phản hồi yêu cầu kỹ thuật nội
 3. **Phối hợp xử lý:** Chuyển giao thông tin đến bộ phận kỹ thuật chuyên trách.
 
 > **Quy định thời gian:** Phản hồi lần đầu trong vòng 30 phút kể từ khi nhận thông tin.
+> **Xử lý sự cố:** Xử lý trong vòng 10 phút kể từ khi nhận phản hồi.
