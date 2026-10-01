@@ -4,7 +4,7 @@
 Tài liệu chuẩn hóa các bước phản hồi yêu cầu kỹ thuật nội bộ của đơn vị.
 ## 2. Các bước triển khai
 | STT | Bước thực hiện | Bộ phận xử lý | Thời hạn |
-| :...: | :... | :... | :... |
+| :---:| :--- | :---| :---|
 | 01 | Tiếp nhận thông tin | Cán bộ trực | 15 phút |
 | 02 | Phân loại và điều phối | Trưởng bộ phận | 30 phút |
 | 03 | Phản hồi kết quả | Kỹ thuật viên | 24 giờ |
